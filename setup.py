@@ -6,7 +6,7 @@ with open("README.md", "r", encoding='utf-8') as fh:
 
 setuptools.setup(
     name="py_variety",
-    version="0.0.1",
+    version="0.1.0",
     author="maida",
     author_email="624486877@qq.com",
     description="Use variety by python.",
