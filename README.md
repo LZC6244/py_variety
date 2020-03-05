@@ -29,3 +29,5 @@ new_name = 'new_name'
 formal_fields(host='x.x.x.x', verify={'user': 'xxx', 'passwd': 'xxxxxx', 'authdb': 'xxxx'},
               db_name=db_name, coll_name=coll_name,new_name=new_name)
 ```
+方法正确执行将放回 `None` 且 打印处理后的集合名  
+错误执行将返回错误信息（捕捉的终端报错信息）
