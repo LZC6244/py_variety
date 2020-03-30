@@ -1,7 +1,7 @@
 # 项目背景
 基于 Python 调用 Github 项目 [variety](https://github.com/variety/variety) 的脚本  
 variety 文件夹来源于该项目拷贝  
-版本：![](https://img.shields.io/badge/Python-3.x-brightgreen) ![](https://img.shields.io/badge/variety-1.5.1-lightgrey)
+版本：![](https://img.shields.io/badge/Python-3.7.5-brightgreen) ![](https://img.shields.io/badge/variety-1.5.1-lightgrey)
 
 ---
 
